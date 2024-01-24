@@ -1,0 +1,318 @@
+[
+    {
+        "id": 1,
+        "category": "Food",
+        "name": "Pizza 1",
+        "price": 99,
+        "description": "120g",
+        "image":"./assets/f1.jpg"
+    },
+    {
+        "id": 2,
+        "category": "Food",
+        "name": "Pizza 2",
+        "price": 12,
+        "description": "120g",
+        "image":"./assets/f2.jpg"
+    },
+    {
+        "id": 3,
+        "category": "Food",
+        "name": "Burger",
+        "price": 22,
+        "description": "120g",
+        "image":"./assets/f3.jpg"
+    },
+    {
+        "id": 4,
+        "category": "Food",
+        "name": "Zengers",
+        "price": 12,
+        "description": "120g",
+        "image":"./assets/f4.jpg"
+    },
+
+    {
+        "id": 5,
+        "category": "Food",
+        "name": "Gruopy",
+        "price": 12,
+        "description": "100g",
+        "image":"./assets/f5.jpg"
+    },
+
+    {
+        "id": 6,
+        "category": "Food",
+        "name": "pasta",
+        "price": 34,
+        "description": "130g",
+        "image":"./assets/f6.jpg"
+    },
+    {
+        "id": 7,
+        "category": "Food",
+        "name": "corn",
+        "price": 12,
+        "description": "120g",
+        "image":"./assets/f7.jpg"
+    },
+    {
+        "id": 8,
+        "category": "Food",
+        "name": "cake1",
+        "price": 80,
+        "description": "120g",
+        "image":"./assets/f8.jpg"
+    },
+    {
+        "id": 9,
+        "category": "Food",
+        "name": "cake2",
+        "price": 50,
+        "description": "100g",
+        "image":"./assets/f9.jpg"
+    },
+
+
+
+
+
+
+    {
+        "id": 10,
+        "category": " Alcohol",
+        "name": "Beer1",
+        "price": 22,
+        "description": "0.9L",
+        "image":"./assets/a1.jpg"
+    },
+    {
+        "id": 11,
+        "category": " Alcohol",
+        "name": "Beer2",
+        "price": 12.99,
+        "description": "1.8L",
+        "image":"./assets/a2.jpg"
+    },
+    {
+        "id": 12,
+        "category": " Alcohol",
+        "name": "Beer3",
+        "price": 99,
+        "description": "2L",
+        "image":"./assets/a3.jpg"
+    },
+    {
+        "id": 13,
+        "category": " Alcohol",
+        "name": "Beer4",
+        "price": 12,
+        "description": "1.4L",
+        "image":"./assets/a4.jpg"
+    },
+    {
+        "id": 14,
+        "category": " Alcohol",
+        "name": "Beer5",
+        "price": 12.99,
+        "description": "1.4L",
+        "image":"./assets/a5.jpg"
+    },
+    {
+        "id": 15,
+        "category": " Alcohol",
+        "name": "Beer6",
+        "price": 19,
+        "description": "1.4L",
+        "image":"./assets/a6.jpg"
+    },
+    {
+        "id": 16,
+        "category": " Alcohol",
+        "name": "Beer7",
+        "price": 12.99,
+        "description": "1.4L",
+        "image":"./assets/a7.jpg"
+    },
+    {
+        "id": 17,
+        "category": " Alcohol",
+        "name": "Beer8",
+        "price": 99,
+        "description": "1.4L",
+        "image":"./assets/a8.jpg"
+    },
+    {
+        "id": 18,
+        "category": " Alcohol",
+        "name": "Beer9",
+        "price": 12,
+        "description": "1.4L",
+        "image":"./assets/a9.jpg"
+    },
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "id": 19,
+        "category": "Cold Drinks",
+        "name": "Cold1",
+        "price": 9,
+        "description": "Refreshing ",
+        "image":"./assets/c1.jpg"
+    },
+    {
+        "id": 20,
+        "category": "Cold Drinks",
+        "name": "Cold2",
+        "price": 8,
+        "description": "Refreshing ",
+        "image":"./assets/c2.jpg"
+    },
+    {
+        "id": 21,
+        "category": "Cold Drinks",
+        "name": "Cold3",
+        "price": 5,
+        "description": "Refreshing ",
+        "image":"./assets/c3.jpg"
+    },
+    {
+        "id": 22,
+        "category": "Cold Drinks",
+        "name": "Cold4",
+        "price": 1.99,
+        "description": "Refreshing",
+        "image":"./assets/c4.jpg"
+    },
+    {
+        "id": 23,
+        "category": "Cold Drinks",
+        "name": "Cold5",
+        "price":99,
+        "description": "Refreshing ",
+        "image":"./assets/c5.jpg"
+    },
+    {
+        "id": 24,
+        "category": "Cold Drinks",
+        "name": "Cold6",
+        "price": 2,
+        "description": "Refreshing ",
+        "image":"./assets/c6.jpg"
+    },
+    {
+        "id": 25,
+        "category": "Cold Drinks",
+        "name": "Cold7",
+        "price": 9,
+        "description": "Refreshing",
+        "image":"./assets/c7.jpg"
+    },
+    {
+        "id": 26,
+        "category": "Cold Drinks",
+        "name": "Cold8",
+        "price": 9,
+        "description": "Refreshing Coca-Cola.",
+        "image":"./assets/c8.jpg"
+    },
+    {
+        "id": 27,
+        "category": "Cold Drinks",
+        "name": "Cold9",
+        "price":5,
+        "description": "Refreshing",
+        "image":"./assets/c9.jpg"
+    },
+
+
+
+
+
+
+
+
+
+    {
+        "id": 28,
+        "category": "Hot Drinks",
+        "name": "Coffee1",
+        "price": 1.99,
+        "description": "Focusing",
+        "image":"./assets/h1.jpg"
+    },
+    {
+        "id": 29,
+        "category": "Hot Drinks",
+        "name": "Coffee2",
+        "price": 29,
+        "description": "Focusing",
+        "image":"./assets/h2.jpg"
+    },
+    {
+        "id": 30,
+        "category": "Hot Drinks",
+        "name": "Coffee3",
+        "price": 33,
+        "description": "Focusing",
+        "image":"./assets/h3.jpg"
+    },
+    {
+        "id": 31,
+        "category": "Hot Drinks",
+        "name": "Coffee4",
+        "price": 19,
+        "description": "Focusing",
+        "image":"./assets/h4.jpg"
+    },
+    {
+        "id": 32,
+        "category": "Hot Drinks",
+        "name": "Coffee5",
+        "price": 9,
+        "description": "Focusing",
+        "image":"./assets/h5.jpg"
+    },
+    {
+        "id": 33,
+        "category": "Hot Drinks",
+        "name": "Coffee6",
+        "price": 12,
+        "description": "Refreshing Coca-Cola.",
+        "image":"./assets/h6.jpg"
+    },
+    {
+        "id": 34,
+        "category": "Hot Drinks",
+        "name": "Coffee7",
+        "price": 11,
+        "description": "Focusing",
+        "image":"./assets/h7.jpg"
+    },
+    {
+        "id": 35,
+        "category": "Hot Drinks",
+        "name": "Coffee8",
+        "price": 11,
+        "description": "Focusing",
+        "image":"./assets/h8.jpg"
+    },
+    {
+        "id": 36,
+        "category": "Hot Drinks",
+        "name": "Coffee9",
+        "price": 8,
+        "description": "Focusing",
+        "image":"./assets/h9.jpg"
+    }
+]
