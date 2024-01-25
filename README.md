@@ -1,4 +1,4 @@
-# Menue Ordering
+# Menu Ordering
 
 
 In the project directory, you can run:
