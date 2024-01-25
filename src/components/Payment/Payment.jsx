@@ -22,14 +22,14 @@ const Payment = () => {
 
 
   return (
-    <div className='flex flex-col items-center justify-center gap-8 min-h-screen'>
+    <div className='flex flex-col items-center justify-stretch min-h-screen size-fit  '>
 
       <div className='border-2 border-black p-5 m-5 rounded-xl'>
         <h2 className='text-lg font-bold'>Total: ${total}</h2>
         <h2 className='text-lg font-bold'>Available: ${available}</h2>
       </div>
   
-      <div className='border-2 border-black lg:border-2 p-4 lg:p-5 m-3 lg:m-5 rounded-md lg:rounded-xl '>
+      <div className='border-2 border-black size-min lg:border-2 p-4 lg:p-5 m-3 lg:m-5 rounded-md lg:rounded-xl  '>
   
       <div className='flex items-center justify-center gap-2 mb-4'>
         <h1 className='text-lg font-bold'>Payment Method</h1>
@@ -37,7 +37,7 @@ const Payment = () => {
         <button><img src={masterimg} alt='master' className='w-10'/></button>
       </div>
   
-      <form className='flex flex-col gap-2 md:gap-4 lg:gap-6'>
+      <form className='flex flex-col gap-2 size-min md:gap-4 lg:gap-6'>
   
         <div className='flex flex-col'>
           <label htmlFor="name" className="text-lg">Full Name</label>

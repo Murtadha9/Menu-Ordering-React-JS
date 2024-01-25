@@ -51,7 +51,7 @@ const Menu = ({ menuData, onAddToOrder, currentOrder }) => {
         <p className="font-bold text-orange-500 text-lg">${item.price}</p>
       </div>
 
-      <img src={item.image} alt={item.name} className="w-24 h-24 object-cover rounded-xl md:w-32 md:h-32 absolute bottom-2 right-2" />
+      <img src={item.image} alt={item.name} className=" object-cover w-32 h-32 rounded-xl md:size-20 md:siz-20 absolute bottom-2 right-2" />
 
     </div>
   ))}
